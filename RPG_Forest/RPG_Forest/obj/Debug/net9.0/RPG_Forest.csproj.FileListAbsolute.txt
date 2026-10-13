@@ -1,0 +1,14 @@
+C:\Users\Windows 11\source\repos\my_homework_2025_fall\Assignments OOP\RPG_Forest\RPG_Forest\bin\Debug\net9.0\RPG_Forest.exe
+C:\Users\Windows 11\source\repos\my_homework_2025_fall\Assignments OOP\RPG_Forest\RPG_Forest\bin\Debug\net9.0\RPG_Forest.deps.json
+C:\Users\Windows 11\source\repos\my_homework_2025_fall\Assignments OOP\RPG_Forest\RPG_Forest\bin\Debug\net9.0\RPG_Forest.runtimeconfig.json
+C:\Users\Windows 11\source\repos\my_homework_2025_fall\Assignments OOP\RPG_Forest\RPG_Forest\bin\Debug\net9.0\RPG_Forest.dll
+C:\Users\Windows 11\source\repos\my_homework_2025_fall\Assignments OOP\RPG_Forest\RPG_Forest\bin\Debug\net9.0\RPG_Forest.pdb
+C:\Users\Windows 11\source\repos\my_homework_2025_fall\Assignments OOP\RPG_Forest\RPG_Forest\obj\Debug\net9.0\RPG_Forest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\my_homework_2025_fall\Assignments OOP\RPG_Forest\RPG_Forest\obj\Debug\net9.0\RPG_Forest.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\my_homework_2025_fall\Assignments OOP\RPG_Forest\RPG_Forest\obj\Debug\net9.0\RPG_Forest.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\my_homework_2025_fall\Assignments OOP\RPG_Forest\RPG_Forest\obj\Debug\net9.0\RPG_Forest.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\my_homework_2025_fall\Assignments OOP\RPG_Forest\RPG_Forest\obj\Debug\net9.0\RPG_Forest.dll
+C:\Users\Windows 11\source\repos\my_homework_2025_fall\Assignments OOP\RPG_Forest\RPG_Forest\obj\Debug\net9.0\refint\RPG_Forest.dll
+C:\Users\Windows 11\source\repos\my_homework_2025_fall\Assignments OOP\RPG_Forest\RPG_Forest\obj\Debug\net9.0\RPG_Forest.pdb
+C:\Users\Windows 11\source\repos\my_homework_2025_fall\Assignments OOP\RPG_Forest\RPG_Forest\obj\Debug\net9.0\RPG_Forest.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\my_homework_2025_fall\Assignments OOP\RPG_Forest\RPG_Forest\obj\Debug\net9.0\ref\RPG_Forest.dll

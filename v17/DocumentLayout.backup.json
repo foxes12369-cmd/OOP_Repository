@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows 11\\source\\repos\\my_homework_2025_fall\\Assignments OOP\\RPG_Forest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35F8AADE-0347-40FA-9051-1FC96C4999D9}|RPG_Forest\\RPG_Forest.csproj|c:\\users\\windows 11\\source\\repos\\my_homework_2025_fall\\assignments oop\\rpg_forest\\rpg_forest\\classes\\livingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F8AADE-0347-40FA-9051-1FC96C4999D9}|RPG_Forest\\RPG_Forest.csproj|solutionrelative:rpg_forest\\classes\\livingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F8AADE-0347-40FA-9051-1FC96C4999D9}|RPG_Forest\\RPG_Forest.csproj|c:\\users\\windows 11\\source\\repos\\my_homework_2025_fall\\assignments oop\\rpg_forest\\rpg_forest\\interfaces\\ilivingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F8AADE-0347-40FA-9051-1FC96C4999D9}|RPG_Forest\\RPG_Forest.csproj|solutionrelative:rpg_forest\\interfaces\\ilivingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F8AADE-0347-40FA-9051-1FC96C4999D9}|RPG_Forest\\RPG_Forest.csproj|c:\\users\\windows 11\\source\\repos\\my_homework_2025_fall\\assignments oop\\rpg_forest\\rpg_forest\\classes\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F8AADE-0347-40FA-9051-1FC96C4999D9}|RPG_Forest\\RPG_Forest.csproj|solutionrelative:rpg_forest\\classes\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F8AADE-0347-40FA-9051-1FC96C4999D9}|RPG_Forest\\RPG_Forest.csproj|c:\\users\\windows 11\\source\\repos\\my_homework_2025_fall\\assignments oop\\rpg_forest\\rpg_forest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F8AADE-0347-40FA-9051-1FC96C4999D9}|RPG_Forest\\RPG_Forest.csproj|solutionrelative:rpg_forest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F8AADE-0347-40FA-9051-1FC96C4999D9}|RPG_Forest\\RPG_Forest.csproj|c:\\users\\windows 11\\source\\repos\\my_homework_2025_fall\\assignments oop\\rpg_forest\\rpg_forest\\classes\\power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F8AADE-0347-40FA-9051-1FC96C4999D9}|RPG_Forest\\RPG_Forest.csproj|solutionrelative:rpg_forest\\classes\\power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F8AADE-0347-40FA-9051-1FC96C4999D9}|RPG_Forest\\RPG_Forest.csproj|c:\\users\\windows 11\\source\\repos\\my_homework_2025_fall\\assignments oop\\rpg_forest\\rpg_forest\\classes\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F8AADE-0347-40FA-9051-1FC96C4999D9}|RPG_Forest\\RPG_Forest.csproj|solutionrelative:rpg_forest\\classes\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F8AADE-0347-40FA-9051-1FC96C4999D9}|RPG_Forest\\RPG_Forest.csproj|c:\\users\\windows 11\\source\\repos\\my_homework_2025_fall\\assignments oop\\rpg_forest\\rpg_forest\\powertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F8AADE-0347-40FA-9051-1FC96C4999D9}|RPG_Forest\\RPG_Forest.csproj|solutionrelative:rpg_forest\\powertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F8AADE-0347-40FA-9051-1FC96C4999D9}|RPG_Forest\\RPG_Forest.csproj|c:\\users\\windows 11\\source\\repos\\my_homework_2025_fall\\assignments oop\\rpg_forest\\rpg_forest\\classes\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F8AADE-0347-40FA-9051-1FC96C4999D9}|RPG_Forest\\RPG_Forest.csproj|solutionrelative:rpg_forest\\classes\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\my_homework_2025_fall\\Assignments OOP\\RPG_Forest\\RPG_Forest\\Classes\\Player.cs",
+              "RelativeDocumentMoniker": "RPG_Forest\\Classes\\Player.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\my_homework_2025_fall\\Assignments OOP\\RPG_Forest\\RPG_Forest\\Classes\\Player.cs",
+              "RelativeToolTip": "RPG_Forest\\Classes\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:51:09.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Power.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\my_homework_2025_fall\\Assignments OOP\\RPG_Forest\\RPG_Forest\\Classes\\Power.cs",
+              "RelativeDocumentMoniker": "RPG_Forest\\Classes\\Power.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\my_homework_2025_fall\\Assignments OOP\\RPG_Forest\\RPG_Forest\\Classes\\Power.cs",
+              "RelativeToolTip": "RPG_Forest\\Classes\\Power.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T13:38:33.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\my_homework_2025_fall\\Assignments OOP\\RPG_Forest\\RPG_Forest\\Classes\\Item.cs",
+              "RelativeDocumentMoniker": "RPG_Forest\\Classes\\Item.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\my_homework_2025_fall\\Assignments OOP\\RPG_Forest\\RPG_Forest\\Classes\\Item.cs",
+              "RelativeToolTip": "RPG_Forest\\Classes\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T12:35:45.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\my_homework_2025_fall\\Assignments OOP\\RPG_Forest\\RPG_Forest\\Program.cs",
+              "RelativeDocumentMoniker": "RPG_Forest\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\my_homework_2025_fall\\Assignments OOP\\RPG_Forest\\RPG_Forest\\Program.cs",
+              "RelativeToolTip": "RPG_Forest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T12:31:49.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivingEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\my_homework_2025_fall\\Assignments OOP\\RPG_Forest\\RPG_Forest\\Classes\\LivingEntity.cs",
+              "RelativeDocumentMoniker": "RPG_Forest\\Classes\\LivingEntity.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\my_homework_2025_fall\\Assignments OOP\\RPG_Forest\\RPG_Forest\\Classes\\LivingEntity.cs",
+              "RelativeToolTip": "RPG_Forest\\Classes\\LivingEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T14:13:58.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILivingEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\my_homework_2025_fall\\Assignments OOP\\RPG_Forest\\RPG_Forest\\Interfaces\\ILivingEntity.cs",
+              "RelativeDocumentMoniker": "RPG_Forest\\Interfaces\\ILivingEntity.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\my_homework_2025_fall\\Assignments OOP\\RPG_Forest\\RPG_Forest\\Interfaces\\ILivingEntity.cs",
+              "RelativeToolTip": "RPG_Forest\\Interfaces\\ILivingEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T14:11:26.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PowerType.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\my_homework_2025_fall\\Assignments OOP\\RPG_Forest\\RPG_Forest\\PowerType.cs",
+              "RelativeDocumentMoniker": "RPG_Forest\\PowerType.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\my_homework_2025_fall\\Assignments OOP\\RPG_Forest\\RPG_Forest\\PowerType.cs",
+              "RelativeToolTip": "RPG_Forest\\PowerType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T13:39:44.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\my_homework_2025_fall\\Assignments OOP\\RPG_Forest\\RPG_Forest\\Classes\\Weapon.cs",
+              "RelativeDocumentMoniker": "RPG_Forest\\Classes\\Weapon.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\my_homework_2025_fall\\Assignments OOP\\RPG_Forest\\RPG_Forest\\Classes\\Weapon.cs",
+              "RelativeToolTip": "RPG_Forest\\Classes\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T13:02:20.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
